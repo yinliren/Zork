@@ -1,6 +1,6 @@
 # Zork
-DIY Zork Game in C++
-Command Instruction:
+DIY Zork Game in C++\n
+Command Instruction:\n
 go: make moves, “go east”, “go west” .......
 Look: check surrounding
 Take: Take items, such as “Take Sword, Take Energy Drink”
