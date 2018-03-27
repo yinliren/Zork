@@ -1,7 +1,7 @@
 # Zork
-##DIY Zork Game in C++
+## DIY Zork Game in C++
 
-###You can also find Zork map in PDF attached.
+### You can also find Zork map in PDF attached.
 
 Command Instruction:
 
