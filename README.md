@@ -3,6 +3,13 @@
 
 ##### You can also find Zork map in "Zork Game Instruction and Map.pdf" attached.
 
+Devlopment Environment:
+
+OS: Mac OS High Sierra 10.13.3 (17D102)
+
+IDE: Xcode Version 9.2 (9C40b)
+
+
 Command Instruction:
 
 go: make moves, “go east”, “go west” .......
