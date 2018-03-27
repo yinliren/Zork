@@ -10,7 +10,9 @@
 *IDE: Xcode Version 9.2 (9C40b)*
 
 
-Command Instruction:
+
+
+**Command Instruction:**
 
 go: make moves, “go east”, “go west” .......
 
