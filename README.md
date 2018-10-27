@@ -33,4 +33,4 @@ Eat: “Eat apple”
 Drink: “Drink EnergyDrink”
 
 **Cheat Map for this game:**
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/yinliren/Zork/master/Zork%20Map.jpg)
