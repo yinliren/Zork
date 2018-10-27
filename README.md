@@ -31,3 +31,6 @@ Unlock: unlock locked doors, such as “unlock down with masterKey” Examine: E
 Eat: “Eat apple”
 
 Drink: “Drink EnergyDrink”
+
+**Cheat Map for this game:**
+![alt text](http://url/to/img.png)
